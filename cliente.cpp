@@ -14,7 +14,7 @@
 // Compilar:
 //   g++ -std=c++20 cliente.cpp -lzmq -o cliente
 // Ejecutar (con el servidor ya corriendo):
-//   ./client
+//   ./cliente
 
 #include <iostream>
 #include <string>
